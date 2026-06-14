@@ -36,13 +36,13 @@ Melalui praktikum ini, saya mempelajari berbagai konsep dasar Data Science mulai
 
 ## Link Notebook
 
-* Pertemuan 1 : `https://github.com/Krisnanaufalazhar/data-science-2026/blob/main/Pertemuan1_KrisnaNaufalAzharSuhendar_240401070506.ipynb`
-* Pertemuan 2 : `Pertemuan2_KrisnaNaufalAzharSuhendar_240401070506.ipynb`
-* Pertemuan 3 : `Pertemuan3_KrisnaNaufalAzharSuhendar_240401070506.ipynb`
-* Pertemuan 4 : `Pertemuan4_KrisnaNaufalAzharSuhendar_240401070506.ipynb`
-* Pertemuan 5 : `Pertemuan5_KrisnaNaufalAzharSuhendar_240401070506.ipynb`
-* Pertemuan 6 : `Pertemuan6_KrisnaNaufalAzharSuhendar_240401070506.ipynb`
-* Pertemuan 7 : `Pertemuan7_KrisnaNaufalAzharSuhendar_240401070506.ipynb`
+- [Pertemuan 1](https://github.com/Krisnanaufalazhar/data-science-2026/blob/main/Pertemuan1_KrisnaNaufalAzharSuhendar_240401070506.ipynb)
+- [Pertemuan 2](https://github.com/Krisnanaufalazhar/data-science-2026/blob/main/Pertemuan2_KrisnaNaufalAzharSuhendar_240401070506.ipynb)
+- [Pertemuan 3](https://github.com/Krisnanaufalazhar/data-science-2026/blob/main/Pertemuan3_KrisnaNaufalAzharSuhendar_240401070506.ipynb)
+- [Pertemuan 4](https://github.com/Krisnanaufalazhar/data-science-2026/blob/main/Pertemuan4_KrisnaNaufalAzharSuhendar_240401070506.ipynb)
+- [Pertemuan 5](https://github.com/Krisnanaufalazhar/data-science-2026/blob/main/Pertemuan5_KrisnaNaufalAzharSuhendar_240401070506.ipynb)
+- [Pertemuan 6](https://github.com/Krisnanaufalazhar/data-science-2026/blob/main/Pertemuan6_KrisnaNaufalAzharSuhendar_240401070506.ipynb)
+- [Pertemuan 7](https://github.com/Krisnanaufalazhar/data-science-2026/blob/main/Pertemuan7_KrisnaNaufalAzharSuhendar_240401070506.ipynb)
 
 ---
 
