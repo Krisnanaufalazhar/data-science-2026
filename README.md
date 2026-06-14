@@ -36,7 +36,7 @@ Melalui praktikum ini, saya mempelajari berbagai konsep dasar Data Science mulai
 
 ## Link Notebook
 
-* Pertemuan 1 : `Pertemuan1_KrisnaNaufalAzharSuhendar_240401070506.ipynb`
+* Pertemuan 1 : `https://github.com/Krisnanaufalazhar/data-science-2026/blob/main/Pertemuan1_KrisnaNaufalAzharSuhendar_240401070506.ipynb`
 * Pertemuan 2 : `Pertemuan2_KrisnaNaufalAzharSuhendar_240401070506.ipynb`
 * Pertemuan 3 : `Pertemuan3_KrisnaNaufalAzharSuhendar_240401070506.ipynb`
 * Pertemuan 4 : `Pertemuan4_KrisnaNaufalAzharSuhendar_240401070506.ipynb`
